@@ -1,0 +1,161 @@
+body {
+    margin:auto;
+    /* background-color: #1A1D2C; */
+    /* background-color: #27AE5F; */
+    /* background-color: #28A165; */
+}
+header {
+    width: 100%;
+    height:10px;
+}
+nav {
+    padding-left: 6%;
+    height: 55px;
+    background-color:#e4ddf4;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    margin-top:0%;
+}
+nav ul {
+    float:right;
+}
+nav ul li {
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size:medium;
+    padding: 10px 30px;
+    margin-right: 10px;
+}
+#Home{
+    background-color: #1A1D2C;
+    width: 100%;
+    height: 48rem;  
+    margin-top: 1.5%; 
+}
+#Home img{
+    height: auto;
+    width: 350px; 
+    padding-top: 15%;
+    padding-left: 15%;
+    margin-top: -4px;
+}
+.HomeDiv span {
+    height: 200%;
+    color: #27AE5F;
+}
+#Home h1{
+    padding-top: 0px;
+    color: white;
+    margin-left: 58%;
+    font-size:45px;
+    margin-top: -25%;
+}
+#Home p {
+    margin-left: 58%;
+    color: white;
+}
+#firstFrame{
+    margin-top:-1%;
+    margin-left:54%;
+}
+#Portfolio {
+    background-color: #fefbe9;
+    margin-bottom: 20px;
+    margin-top:-3%;
+    padding-top: 10px;
+}
+.portfolio {
+    margin-left: 35px;
+}
+.portfolio hr {
+    width:96%;
+    margin-left:3px;
+}
+.portfolio-container ul {
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-top:50px;
+}
+.portfolio-container1 a {
+    text-decoration: none;
+}
+#lpu {
+    margin-left: 65px;
+    margin-top: -56px;
+}
+#lpu1 {
+    margin-left: 65px;
+    margin-top: -19px;
+}
+#lpu2 {
+    margin-left: 65px;
+    margin-top: -15px;
+}
+#Contact {
+    margin-top: 3%;
+}
+#contact {
+    margin-left:35%;
+    font-size: 1.75rem;
+    line-height: 0.5;
+    font-weight: 400;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+#formContact {
+    margin-top: -30%;
+    margin-left:8%;
+    background: #e8edf0;
+    width:45%;
+    padding-top: 23px;
+    font-family: "Poppins", Arial, sans-serif;
+}
+.L1 {
+    padding-top: 0px;
+    padding-left:50px;
+    font-size:12px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.input-field{
+    padding: 0px 10px;
+    width:60%;
+    margin-left:50px;
+    font-size:16px;
+    margin-bottom: 20px;
+    border:none;
+    height: 44px;
+}
+.input-field-textarea-field {
+    padding: 10px 10px;
+    width:60%;
+    margin-left:50px;
+    font-size:16px;
+    margin-bottom: 20px;
+    border:none;
+    font-family: "Poppins", Arial, sans-serif;
+    height: 68px;
+}
+.btn2{ 
+    margin-left:50px; 
+    margin-top: -10px;
+    margin-bottom: 12px;
+    padding: 10px;
+    color:white;
+    background-color: #52ab98;
+    border: none;
+}
+#footerhtag {
+    text-align: center;
+    padding-top:10px;
+    color: white;
+}
+.footer{ 
+    height: 40px;
+    margin-top: -20px;
+    background-color: #02254B;
+}
