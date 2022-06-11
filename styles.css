@@ -1,8 +1,5 @@
 body {
     margin:auto;
-    /* background-color: #1A1D2C; */
-    /* background-color: #27AE5F; */
-    /* background-color: #28A165; */
 }
 header {
     width: 100%;
@@ -64,9 +61,13 @@ nav ul li a {
 }
 #Portfolio {
     background-color: #fefbe9;
-    margin-bottom: 20px;
-    margin-top:-3%;
+    margin-bottom: 0px;
+    margin-top:-1%;
     padding-top: 10px;
+    padding-bottom: 10px;
+}
+#h3 {
+    font-size: 28px;
 }
 .portfolio {
     margin-left: 35px;
@@ -75,25 +76,32 @@ nav ul li a {
     width:96%;
     margin-left:3px;
 }
+.portfolio-container p, ul{
+    font-size: 18px;
+}
 .portfolio-container ul {
     margin-top:10px;
     margin-bottom:10px;
     padding-top:50px;
+    font-size: 180px;
 }
 .portfolio-container1 a {
     text-decoration: none;
 }
 #lpu {
-    margin-left: 65px;
-    margin-top: -56px;
+    margin-left: 68px;
+    margin-top: -58px;
+    font-size:22px;
 }
 #lpu1 {
-    margin-left: 65px;
+    margin-left: 68px;
     margin-top: -19px;
+    font-size: 18px;
 }
 #lpu2 {
-    margin-left: 65px;
+    margin-left: 68px;
     margin-top: -15px;
+    font-size: 18px;
 }
 #Contact {
     margin-top: 3%;
