@@ -26,6 +26,9 @@ nav ul li a {
     padding: 10px 30px;
     margin-right: 10px;
 }
+nav ul li a:hover {
+    color: #ae4627;
+}
 #Home{
     background-color: #1A1D2C;
     width: 100%;
@@ -65,6 +68,12 @@ nav ul li a {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+h2 {
+    color: red;
+}
+#Contact h2 {
+    margin-top: -1%;
+}
 #h3 {
     font-size: 28px;
 }
@@ -86,6 +95,11 @@ nav ul li a {
 }
 .portfolio-container1 a {
     text-decoration: none;
+    color: red;
+}
+.portfolio-container1 a:hover {
+    text-decoration: none;
+    color: green;
 }
 #lpu {
     margin-left: 68px;
@@ -161,6 +175,9 @@ nav ul li a {
     text-decoration: none;
     color: white;
 }
+.btn1:hover {
+    background-color: #27ae46;
+}
 .btn2{ 
     margin-left:50px; 
     margin-top: -10px;
@@ -169,6 +186,9 @@ nav ul li a {
     color:white;
     background-color: #52ab98;
     border: none;
+}
+.btn2:hover {
+    background-color: #27ae46;
 }
 #footerhtag {
     text-align: center;
