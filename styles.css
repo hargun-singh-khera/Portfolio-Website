@@ -11,7 +11,6 @@ nav {
     background-color:#e4ddf4;
     font-family:'Times New Roman', Times, serif;
     text-transform: uppercase;
-    margin-top:0%;
 }
 nav ul {
     float:right;
@@ -147,6 +146,20 @@ nav ul li a {
     border:none;
     font-family: "Poppins", Arial, sans-serif;
     height: 68px;
+}
+.btn1{ 
+    margin-left:65%; 
+    margin-top: 20px;
+    margin-bottom: 12px;
+    padding: 10px;
+    color:white;
+    background-color: #7127ae;
+    border: none;
+    border-radius: 5%;
+}
+.btn1 a {
+    text-decoration: none;
+    color: white;
 }
 .btn2{ 
     margin-left:50px; 
